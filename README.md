@@ -7,4 +7,4 @@ Compile it with
 
 > gcc main.c
 
-![](/images/gemo.gif "demo")
+![](/images/demo.gif "demo")
